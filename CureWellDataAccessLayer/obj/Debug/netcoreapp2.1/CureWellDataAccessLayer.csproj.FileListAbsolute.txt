@@ -1,0 +1,71 @@
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csprojAssemblyReference.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csprojAssemblyReference.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csprojAssemblyReference.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csprojAssemblyReference.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.deps.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.runtimeconfig.dev.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.AssemblyInfo.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellDataAccessLayer\obj\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
