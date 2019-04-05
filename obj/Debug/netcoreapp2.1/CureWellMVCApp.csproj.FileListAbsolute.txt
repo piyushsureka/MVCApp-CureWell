@@ -1,0 +1,232 @@
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Success.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Delete.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Details.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Edit.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Index.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Index.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Create.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Create.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Delete.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Details.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Edit.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Success.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\GetAllDoctors.g.cshtml.cs
+D:\FA2\FA2 Related\QP_Creation\FA2_MVCWebAPICore\Mock\To_Educators\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\GetAllDoctorSpecialization.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Create.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\GetAllDoctorSpecialization.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Delete.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Details.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Edit.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\GetAllDoctors.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Success.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\Assessment\QuestionPapers\ToReview\Interns\Mock\00\E\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+D:\Assessment\QuestionPapers\Interns\FA2\00\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\GetAllDoctors.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Details.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Edit.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Delete.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Create.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\GetAllDoctorSpecialization.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Success.g.cshtml.cs
+C:\Users\deepak13.TRN\Desktop\564070_SubmissionFolder\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.deps.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.runtimeconfig.dev.json
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\bin\Debug\netcoreapp2.1\CureWellDataAccessLayer.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csprojAssemblyReference.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorAssemblyInfo.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfoInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.AssemblyInfo.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.input.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.TagHelpers.output.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorCoreGenerate.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\Create.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\CureWellClient\GetAllDoctorSpecialization.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Delete.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Details.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\Edit.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Hospital\GetAllDoctors.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Success.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.Views.pdb
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.csproj.CopyComplete
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.dll
+C:\Users\PIYUSH14.TRN\Desktop\CureWell\CureWell\CureWellMVCApp\obj\Debug\netcoreapp2.1\CureWellMVCApp.pdb
