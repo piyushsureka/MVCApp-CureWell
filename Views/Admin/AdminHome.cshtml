@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor httpContextaccessor
+
+@{
+    ViewData["Title"] = "AdminHome";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+@*<h2>AdminHome</h2>*@
+<div class="col-md-3" style="margin-left:900px">
+            Welcome<strong>@httpContextaccessor.HttpContext.Session.GetString("username")</strong>
+            </div>
+<div class="col-md-3" style="margin-left:900px">
+  Your last login was:<strong>@httpContextaccessor.HttpContext.Session.GetString("LastLogin")</strong>
+</div>
+            <h3 class="text-center">Admin Home Page</h3>
+            <div class="row">
+                <div class="col-md-4">
+                    @{
+                        Html.RenderPartial("_RecentPurchases");
+                    }
+                </div>
+               
+
+                
+            </div>
+
